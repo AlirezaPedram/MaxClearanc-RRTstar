@@ -1,5 +1,6 @@
 ===============================================================================================================================
 Basic information
+First, create a empty folder "data", where the data will be saved.
 By running "main.m", you can start Maximum clerance RRT* path-planning algorithm MC-RRT*. 
 ===============================================================================================================================
 
